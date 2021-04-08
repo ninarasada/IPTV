@@ -20,5 +20,5 @@ http://ca1.buximedia.com:8080/coa/assyriantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Assyrian-SAT" tvg-language="Assyrian" tvg-logo="http://www.betnahrain.org/images/flag2.png" group-title="Assyrian",Assyrian-SAT
 http://66.242.170.53/hls/live/temp/index.m3u8
 
-http://s1.nasaservers.com:8080/live/SamiraSweden/Saif2021/148595.m3u8
 #EXTINF:-1,AR:Iraqia-Syriac
+http://s1.nasaservers.com:8080/live/SamiraSweden/Saif2021/159765.m3u8
