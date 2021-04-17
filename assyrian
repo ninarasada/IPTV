@@ -21,7 +21,7 @@ http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iraqia-Syriac" tvg-language="Assyrian" tvg-logo="" group-title="Assyrian",Iraqia-Syriac
 http://s1.nasaservers.com:8080/live/Assyriantest/Assyrian1/159765.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="SUROYO-TV" tvg-language="Assyrian" tvg-logo="https://images.app.goo.gl/hwpSi3LrwzfFicQ37" group-title="Assyrian",SUROYO-TV
+#EXTINF:-1 tvg-id="" tvg-name="SUROYO-TV" tvg-language="Assyrian" tvg-logo="http://future.suryoyosat.com/wp-content/uploads/2015/09/logo_100x200px3.png" group-title="Assyrian",SUROYO-TV
 http://s1.nasaservers.com:8080/live/Assyriantest/Assyrian1/124268.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Qeenatha" tvg-language="Assyrian" tvg-logo="https://www.qeenatha.com/assets/img/qeenatha_logo.png" group-title="Assyrian",Qeenatha
