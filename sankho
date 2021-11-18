@@ -10,7 +10,7 @@ http://tv.nohadraserver.com:1935/live/NohadraFHD/playlist.m3u8
 https://5afd52b55ff79.streamlock.net/AshurSat/_definst_/myStream2020/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ISHTAR" tvg-language="Assyrian" tvg-logo="https://www.ishtartv.com/ar/main/images/ishtar-logo-flat.png" group-title="Assyrian",ISHTAR
-http://s1.nasaservers.com:8080/live/SamiraSweden1/Aileen2020/123491.m3u8
+http://s1.nasaservers.com:8080/live/SamiraSweden1/Aileen2020/184419.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Assyrian-TV" tvg-language="Assyrian" tvg-logo="http://www.assyriantv.net/wp-content/uploads/2016/08/logo.png" group-title="Assyrian",Assyrian-TV
 http://ca1.buximedia.com:8080/coa/assyriantv/tracks-v1a1/mono.m3u8
