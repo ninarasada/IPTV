@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="ANB-SAT" tvg-language="Assyrian" tvg-logo="https://i.imgur.com/way7KwN.jpg" group-title="Assyrian",ANB-SAT
-https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
+http://s1.nasaservers.com:8080/live/waleeds/0z6kbEPn/184416.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NOHADRA-TV" tvg-language="Assyrian" tvg-logo="http://nohdralive.com/wp-content/uploads/2016/11/mylogo.png" group-title="Assyrian",NOHADRA
 http://tv.nohadraserver.com:1935/live/NohadraFHD/playlist.m3u8
