@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="ANB-SAT" tvg-language="Assyrian" tvg-logo="https://i.imgur.com/way7KwN.jpg" group-title="Assyrian",ANB-SAT
-http://s1.nasaservers.com:8080/live/emil1/Ashor2020/184416.m3u8
+https://anbsat.ddns.net/anb/live/ANB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NOHADRA-TV" tvg-language="Assyrian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjNnDUNaq5006wTtvpYBx8xRwiKH72AFanb5zrvVg=s176-c-k-c0x00ffffff-no-rj" group-title="Assyrian",NOHADRA
 https://ip.nohadraserver.com:3785/hybrid/play.m3u8
