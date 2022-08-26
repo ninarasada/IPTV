@@ -4,7 +4,7 @@
 http://s1.nasaservers.com:8080/live/RomelEdessa/test1234/184416.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NOHADRA-TV" tvg-language="Assyrian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnjNnDUNaq5006wTtvpYBx8xRwiKH72AFanb5zrvVg=s176-c-k-c0x00ffffff-no-rj" group-title="Assyrian",NOHADRA
-http://tv.nohadraserver.com:1935/live/NohadraFHD/playlist.m3u8
+https://ip.nohadraserver.com:3785/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASHUR-SAT" tvg-language="Assyrian" tvg-logo="https://www.ashursat.com.au/templates/js_impacto/images/logo.png" group-title="Assyrian",ASHUR-SAT
 https://5afd52b55ff79.streamlock.net/AshurSat/_definst_/myStream2020/playlist.m3u8
