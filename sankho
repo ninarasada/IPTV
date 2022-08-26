@@ -4,7 +4,7 @@
 http://s1.nasaservers.com:8080/live/SamiraSweden1/Aileen2020/184416.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NOHADRA-TV" tvg-language="Assyrian" tvg-logo="http://nohdralive.com/wp-content/uploads/2016/11/mylogo.png" group-title="Assyrian",NOHADRA
-http://tv.nohadraserver.com:1935/live/NohadraFHD/playlist.m3u8
+https://ip.nohadraserver.com:3785/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASHUR-SAT" tvg-language="Assyrian" tvg-logo="https://www.ashursat.com.au/templates/js_impacto/images/logo.png" group-title="Assyrian",ASHUR-SAT
 http://s1.nasaservers.com:8080/live/SamiraSweden1/Aileen2020/184418.m3u8
