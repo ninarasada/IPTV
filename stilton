@@ -15,7 +15,7 @@ http://ca1.buximedia.com:8080/coa/assyriantv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ISHTAR HD" tvg-language="Assyrian" tvg-logo="https://www.ishtartv.com/ar/main/images/ishtar-logo-flat.png" group-title="Assyrian",ISHTAR
 http://s1.nasaservers.com:8080/live/30stilton/Kleinburg30/184419.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Assyrian-SAT" tvg-language="Assyrian" tvg-logo="https://static.wixstatic.com/media/732991_3abccf2ba4284ff5b27d94a9585d862f~mv2.jpg/v1/fill/w_350,h_554,al_c,q_80,usm_0.66_1.00_0.01/IMG_2694_edited.webp" group-title="Assyrian",Assyrian-SAT
+#EXTINF:-1 tvg-id="" tvg-name="Assyrian-SAT" tvg-language="Assyrian" tvg-logo="https://static.wixstatic.com/media/732991_3abccf2ba4284ff5b27d94a9585d862f~mv2.jpg/v1/fill/w_350,h_554,al_c,q_80,usm_0.66_1.00_0.01/IMG_2694_edited.webp" group-title="Assyrian",Assyrian-SAT 
 http://66.242.170.53/hls/live/temp/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Iraqia-Syriac" tvg-language="Assyrian" tvg-logo="https://www.lyngsat.com/logo/tv/ii/iraqia-syriac-iq.png" group-title="Assyrian",Iraqia-Syriac
@@ -23,9 +23,6 @@ http://s1.nasaservers.com:8080/live/30stilton/Kleinburg30/159765.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="SUROYO-TV" tvg-language="Assyrian" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnja5MRg3NU8vVMaJ9VaLbBv4R5L0LsjqgieA2a_=s176-c-k-c0x00ffffff-no-rj" group-title="Assyrian",SUROYO-TV
 http://s1.nasaservers.com:8080/live/30stilton/Kleinburg30/124268.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Qeenatha-Redirect" tvg-language="Assyrian" tvg-logo="https://www.qeenatha.com/assets/img/qeenatha_logo.png" group-title="Assyrian",Qeenatha
-https://qeenatha.com/qeenathatvfeed.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Qeenatha-Direct" tvg-language="Assyrian" tvg-logo="https://www.qeenatha.com/assets/img/qeenatha_logo.png" group-title="Assyrian",Qeenatha
 https://live-par-2-cdn-akm-hls-cjpw.livepush.io/live_abr_cdn/emwLWm_R2BcDBQk/index.m3u8
