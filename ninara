@@ -25,4 +25,4 @@ http://s1.nasaservers.com:8080/live/ninarasada/assyrian1/159765.m3u8
 http://s1.nasaservers.com:8080/live/ninarasada/assyrian1/124268.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Qeenatha" tvg-language="Assyrian" tvg-logo="https://www.qeenatha.com/assets/img/qeenatha_logo.png" group-title="Assyrian",Qeenatha
-https://qeenatha.com/qeenathatvfeed.m3u8
+https://live-par-2-cdn-akm-hls-cjpw.livepush.io/live_abr_cdn/emwLWm_R2BcDBQk/index.m3u8
