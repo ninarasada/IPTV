@@ -26,3 +26,6 @@ http://s1.nasaservers.com:8080/live/waleeds/0z6kbEPn/124268.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Qeenatha" tvg-language="Assyrian" tvg-logo="https://www.qeenatha.com/assets/img/qeenatha_logo.png" group-title="Assyrian",Qeenatha
 https://live-par-2-cdn-akm-hls-cjpw.livepush.io/live_abr_cdn/emwLWm_R2BcDBQk/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ASHUR-TV" tvg-language="Assyrian" tvg-logo="http://ashur.tv/apple-touch-icon.jpg" group-title="Assyrian",ASHUR-TV
+http://ec2-34-208-181-58.us-west-2.compute.amazonaws.com/hls/stream.m3u8
